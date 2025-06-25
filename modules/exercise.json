@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Push-Ups",
+    "target_muscle": "Chest, Triceps, Core",
+    "description": "Lower and raise your body using your arms while keeping your body straight.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/45/Push-up-1.png",
+    "video_url": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+  },
+  {
+    "name": "Pull-Ups",
+    "target_muscle": "Back, Biceps",
+    "description": "Hang from a bar and pull your chin over the bar.",
+    "difficulty": "Intermediate",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/69/Pull-up-1.png",
+    "video_url": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "name": "Squats",
+    "target_muscle": "Quads, Glutes, Hamstrings",
+    "description": "Lower your hips from a standing position and then stand back up.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/111/Squat-1.png",
+    "video_url": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+  },
+  {
+    "name": "Deadlifts",
+    "target_muscle": "Glutes, Hamstrings, Lower Back",
+    "description": "Lift a weighted barbell from the ground to hip height.",
+    "difficulty": "Advanced",
+    "type": "Weightlifting",
+    "image_url": "https://wger.de/media/exercise-images/70/Deadlift-1.png",
+    "video_url": "https://www.youtube.com/watch?v=op9kVnSso6Q"
+  },
+  {
+    "name": "Bench Press",
+    "target_muscle": "Chest, Triceps, Shoulders",
+    "description": "Press a weighted barbell upward from your chest while lying on a bench.",
+    "difficulty": "Intermediate",
+    "type": "Weightlifting",
+    "image_url": "https://wger.de/media/exercise-images/13/Bench-press-1.png",
+    "video_url": "https://www.youtube.com/watch?v=gRVjAtPip0Y"
+  },
+  {
+    "name": "Lunges",
+    "target_muscle": "Quads, Glutes",
+    "description": "Step forward with one leg and lower your body until both knees are bent at 90 degrees.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/97/Lunge-1.png",
+    "video_url": "https://www.youtube.com/watch?v=QOVaHwm-Q6U"
+  },
+  {
+    "name": "Plank",
+    "target_muscle": "Core",
+    "description": "Hold your body off the ground in a straight line using your forearms and toes.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/98/Plank-1.png",
+    "video_url": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "name": "Bicep Curls",
+    "target_muscle": "Biceps",
+    "description": "Curl dumbbells up toward your shoulders while keeping elbows stationary.",
+    "difficulty": "Beginner",
+    "type": "Dumbbell",
+    "image_url": "https://wger.de/media/exercise-images/8/Biceps-curl-1.png",
+    "video_url": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "name": "Tricep Dips",
+    "target_muscle": "Triceps",
+    "description": "Lower your body by bending your elbows behind you using parallel bars or a bench.",
+    "difficulty": "Intermediate",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/100/Triceps-dip-1.png",
+    "video_url": "https://www.youtube.com/watch?v=0326dy_-CzM"
+  },
+  {
+    "name": "Overhead Shoulder Press",
+    "target_muscle": "Shoulders",
+    "description": "Push weights overhead while standing or seated.",
+    "difficulty": "Intermediate",
+    "type": "Dumbbell",
+    "image_url": "https://wger.de/media/exercise-images/15/Shoulder-press-1.png",
+    "video_url": "https://www.youtube.com/watch?v=B-aVuyhvLHU"
+  },
+  {
+    "name": "Russian Twists",
+    "target_muscle": "Obliques, Core",
+    "description": "Sit with knees bent, twist your torso from side to side while keeping feet off the ground.",
+    "difficulty": "Intermediate",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/141/Russian-twist-1.png",
+    "video_url": "https://www.youtube.com/watch?v=wkD8rjkodUI"
+  },
+  {
+    "name": "Burpees",
+    "target_muscle": "Full Body",
+    "description": "A full-body explosive movement involving a squat, jump, and push-up.",
+    "difficulty": "Intermediate",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/219/Burpee-1.png",
+    "video_url": "https://www.youtube.com/watch?v=dZgVxmf6jkA"
+  },
+  {
+    "name": "Mountain Climbers",
+    "target_muscle": "Core, Legs, Cardio",
+    "description": "Drive your knees toward your chest from a plank position rapidly.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/219/Mountain-climber-1.png",
+    "video_url": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+  },
+  {
+    "name": "Leg Raises",
+    "target_muscle": "Lower Abs",
+    "description": "Raise your legs while lying flat without lifting your upper back.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/142/Leg-raise-1.png",
+    "video_url": "https://www.youtube.com/watch?v=JB2oyawG9KI"
+  },
+  {
+    "name": "Jumping Jacks",
+    "target_muscle": "Full Body, Cardio",
+    "description": "A basic aerobic exercise performed by jumping to a position with the legs spread wide and the hands touching overhead.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/216/Jumping-jack-1.png",
+    "video_url": "https://www.youtube.com/watch?v=c4DAnQ6DtF8"
+  },
+  {
+    "name": "Hip Thrusts",
+    "target_muscle": "Glutes",
+    "description": "Lift your hips off the ground with weights or bodyweight to activate glutes.",
+    "difficulty": "Intermediate",
+    "type": "Bodyweight/Barbell",
+    "image_url": "https://wger.de/media/exercise-images/121/Hip-thrust-1.png",
+    "video_url": "https://www.youtube.com/watch?v=LM8XHLYJoYs"
+  },
+  {
+    "name": "Glute Bridges",
+    "target_muscle": "Glutes, Lower Back",
+    "description": "Lie on your back and lift hips by contracting your glutes.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/118/Glute-bridge-1.png",
+    "video_url": "https://www.youtube.com/watch?v=m2Zx-57cSok"
+  },
+  {
+    "name": "Side Planks",
+    "target_muscle": "Obliques",
+    "description": "Hold your body in a straight line on one side supported by your forearm.",
+    "difficulty": "Intermediate",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/208/Side-plank-1.png",
+    "video_url": "https://www.youtube.com/watch?v=K2VljzCC16g"
+  },
+  {
+    "name": "Jump Squats",
+    "target_muscle": "Quads, Glutes, Cardio",
+    "description": "Perform a squat and explosively jump upward.",
+    "difficulty": "Intermediate",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/117/Jump-squat-1.png",
+    "video_url": "https://www.youtube.com/watch?v=U4s4mEQ5VqU"
+  },
+  {
+    "name": "High Knees",
+    "target_muscle": "Cardio, Legs",
+    "description": "Run in place while lifting knees high toward the chest.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/220/High-knee-1.png",
+    "video_url": "https://www.youtube.com/watch?v=OAJ_J3EZkdY"
+  },
+  {
+    "name": "Bicycle Crunches",
+    "target_muscle": "Obliques, Core",
+    "description": "Lie on your back and pedal your legs in the air while crunching.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/140/Bicycle-crunch-1.png",
+    "video_url": "https://www.youtube.com/watch?v=9FGilxCbdz8"
+  },
+  {
+    "name": "Arnold Press",
+    "target_muscle": "Shoulders",
+    "description": "A shoulder press that starts with palms facing you and rotates outward as you lift.",
+    "difficulty": "Intermediate",
+    "type": "Dumbbell",
+    "image_url": "https://wger.de/media/exercise-images/89/Arnold-press-1.png",
+    "video_url": "https://www.youtube.com/watch?v=vj2w851ZHRM"
+  },
+  {
+    "name": "Incline Dumbbell Press",
+    "target_muscle": "Upper Chest",
+    "description": "Lie on an incline bench and press dumbbells upward.",
+    "difficulty": "Intermediate",
+    "type": "Dumbbell",
+    "image_url": "https://wger.de/media/exercise-images/10/Incline-dumbbell-press-1.png",
+    "video_url": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
+  },
+  {
+    "name": "Cable Lat Pulldown",
+    "target_muscle": "Lats, Back",
+    "description": "Pull a bar down towards your chest using a cable machine.",
+    "difficulty": "Beginner",
+    "type": "Machine",
+    "image_url": "https://wger.de/media/exercise-images/4/Lat-pulldown-1.png",
+    "video_url": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+  },
+  {
+    "name": "Face Pulls",
+    "target_muscle": "Rear Delts, Traps",
+    "description": "Pull a rope attachment towards your face while keeping elbows high.",
+    "difficulty": "Intermediate",
+    "type": "Cable",
+    "image_url": "https://wger.de/media/exercise-images/6/Face-pull-1.png",
+    "video_url": "https://www.youtube.com/watch?v=rep-qVOkqgk"
+  },
+  {
+    "name": "Barbell Row",
+    "target_muscle": "Back, Lats, Rhomboids",
+    "description": "Pull a barbell to your waist while bent over at the hips.",
+    "difficulty": "Intermediate",
+    "type": "Barbell",
+    "image_url": "https://wger.de/media/exercise-images/16/Barbell-row-1.png",
+    "video_url": "https://www.youtube.com/watch?v=vT2GjY_Umpw"
+  },
+  {
+    "name": "Chest Fly",
+    "target_muscle": "Chest",
+    "description": "Use dumbbells or a machine to open and close your arms in a wide arc.",
+    "difficulty": "Beginner",
+    "type": "Dumbbell/Machine",
+    "image_url": "https://wger.de/media/exercise-images/2/Chest-fly-1.png",
+    "video_url": "https://www.youtube.com/watch?v=eozdVDA78K0"
+  },
+  {
+    "name": "Calf Raises",
+    "target_muscle": "Calves",
+    "description": "Stand on your toes repeatedly to build calf strength.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight/Weight",
+    "image_url": "https://wger.de/media/exercise-images/44/Calf-raise-1.png",
+    "video_url": "https://www.youtube.com/watch?v=-M4-G8p8fmc"
+  },
+  {
+    "name": "Hanging Leg Raises",
+    "target_muscle": "Lower Abs",
+    "description": "Hang from a bar and raise your legs to hip level or higher.",
+    "difficulty": "Advanced",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/142/Hanging-leg-raise-1.png",
+    "video_url": "https://www.youtube.com/watch?v=JB2oyawG9KI"
+  },
+  {
+    "name": "Farmer’s Walk",
+    "target_muscle": "Grip, Core, Traps",
+    "description": "Walk while carrying heavy dumbbells or kettlebells.",
+    "difficulty": "Intermediate",
+    "type": "Weightlifting",
+    "image_url": "https://wger.de/media/exercise-images/87/Farmers-walk-1.png",
+    "video_url": "https://www.youtube.com/watch?v=6d8X7zCP_Ro"
+  },
+  {
+    "name": "Clean and Press",
+    "target_muscle": "Full Body",
+    "description": "Lift the weight from the floor to shoulders, then press overhead.",
+    "difficulty": "Advanced",
+    "type": "Barbell",
+    "image_url": "https://wger.de/media/exercise-images/59/Clean-and-press-1.png",
+    "video_url": "https://www.youtube.com/watch?v=3nRty9Ql3mQ"
+  },
+  {
+    "name": "Kettlebell Swing",
+    "target_muscle": "Glutes, Hamstrings, Core",
+    "description": "Swing a kettlebell between your legs up to shoulder height using hip thrust.",
+    "difficulty": "Intermediate",
+    "type": "Kettlebell",
+    "image_url": "https://wger.de/media/exercise-images/104/Kettlebell-swing-1.png",
+    "video_url": "https://www.youtube.com/watch?v=YSxgYjNAx6s"
+  },
+  {
+    "name": "Wall Sit",
+    "target_muscle": "Quads, Core",
+    "description": "Hold a squat position with your back against the wall.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/119/Wall-sit-1.png",
+    "video_url": "https://www.youtube.com/watch?v=y-wV4Venusw"
+  },
+  {
+    "name": "Donkey Kicks",
+    "target_muscle": "Glutes",
+    "description": "Kick one leg backward while on all fours to activate glutes.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/126/Donkey-kick-1.png",
+    "video_url": "https://www.youtube.com/watch?v=JkX2IP8xbIQ"
+  },
+  {
+    "name": "Fire Hydrants",
+    "target_muscle": "Glutes, Hips",
+    "description": "Raise one leg to the side while on all fours, mimicking a dog at a hydrant.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/127/Fire-hydrant-1.png",
+    "video_url": "https://www.youtube.com/watch?v=btD0zULgWNs"
+  },
+  {
+    "name": "Reverse Crunches",
+    "target_muscle": "Lower Abs",
+    "description": "Lift hips off the ground by curling your knees toward your chest.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/139/Reverse-crunch-1.png",
+    "video_url": "https://www.youtube.com/watch?v=hyv14e2QDq0"
+  },
+  {
+    "name": "Skaters",
+    "target_muscle": "Glutes, Legs, Cardio",
+    "description": "Hop laterally from one foot to the other, mimicking a skating motion.",
+    "difficulty": "Intermediate",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/218/Skaters-1.png",
+    "video_url": "https://www.youtube.com/watch?v=QXCpEyjll8Y"
+  },
+  {
+    "name": "Step-Ups",
+    "target_muscle": "Quads, Glutes",
+    "description": "Step onto a platform one leg at a time and return to the ground.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight/Dumbbell",
+    "image_url": "https://wger.de/media/exercise-images/92/Step-up-1.png",
+    "video_url": "https://www.youtube.com/watch?v=dQqApCGd5Ss"
+  },
+  {
+    "name": "Box Jumps",
+    "target_muscle": "Legs, Cardio",
+    "description": "Jump onto a sturdy box or platform using explosive power.",
+    "difficulty": "Intermediate",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/200/Box-jump-1.png",
+    "video_url": "https://www.youtube.com/watch?v=52rU_mZ2mjA"
+  },
+  {
+    "name": "Superman",
+    "target_muscle": "Lower Back",
+    "description": "Lift your arms and legs off the ground while lying face-down.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/121/Superman-1.png",
+    "video_url": "https://www.youtube.com/watch?v=z6PJMT2y8GQ"
+  },
+  {
+    "name": "T-Bar Row",
+    "target_muscle": "Back",
+    "description": "Row a barbell using a V-handle and fixed pivot point.",
+    "difficulty": "Intermediate",
+    "type": "Barbell",
+    "image_url": "https://wger.de/media/exercise-images/68/T-bar-row-1.png",
+    "video_url": "https://www.youtube.com/watch?v=0hY4tSxKwrA"
+  },
+  {
+    "name": "Toe Touches",
+    "target_muscle": "Abs",
+    "description": "Lie on your back and reach up to touch your toes repeatedly.",
+    "difficulty": "Beginner",
+    "type": "Bodyweight",
+    "image_url": "https://wger.de/media/exercise-images/143/Toe-touch-1.png",
+    "video_url": "https://www.youtube.com/watch?v=JKJje61O_UQ"
+  }
+]

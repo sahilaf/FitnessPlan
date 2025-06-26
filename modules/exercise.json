@@ -5,8 +5,8 @@
     "description": "Lower and raise your body using your arms while keeping your body straight.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/45/Push-up-1.png",
-    "video_url": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+    "image_url": "https://static.wikia.nocookie.net/parkour/images/e/e0/Push_Up.jpg/revision/latest/scale-to-width-down/483?cb=20141122161108",
+    "video_url": "https://youtu.be/mECzqUIDWfU?si=lX_gENO9b-KgfrrU"
   },
   {
     "name": "Pull-Ups",
@@ -14,8 +14,8 @@
     "description": "Hang from a bar and pull your chin over the bar.",
     "difficulty": "Intermediate",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/69/Pull-up-1.png",
-    "video_url": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+    "image_url": "https://mikereinold.com/wp-content/uploads/rookie-mistakes-the-pullup-main.jpg",
+    "video_url": "https://youtu.be/dAScZVF5o9k?si=R4pM5luWyHKz8EQj"
   },
   {
     "name": "Squats",
@@ -23,8 +23,8 @@
     "description": "Lower your hips from a standing position and then stand back up.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/111/Squat-1.png",
-    "video_url": "https://www.youtube.com/watch?v=YaXPRqUwItQ"
+    "image_url": "https://www.villagegym.co.uk/media/3458/squat-jumps-960x540.jpg",
+    "video_url": "https://youtu.be/YaXPRqUwItQ?si=rqXwi6rkKJ0dyD4M"
   },
   {
     "name": "Deadlifts",
@@ -32,8 +32,8 @@
     "description": "Lift a weighted barbell from the ground to hip height.",
     "difficulty": "Advanced",
     "type": "Weightlifting",
-    "image_url": "https://wger.de/media/exercise-images/70/Deadlift-1.png",
-    "video_url": "https://www.youtube.com/watch?v=op9kVnSso6Q"
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/deadlift-1651142430.jpg?crop=1.00xw:0.845xh;0,0.0510xh&resize=980:*",
+    "video_url": "https://youtu.be/WP0IFHkkRZ0?si=aEZcYWlWQs-c5dv2"
   },
   {
     "name": "Bench Press",
@@ -41,8 +41,8 @@
     "description": "Press a weighted barbell upward from your chest while lying on a bench.",
     "difficulty": "Intermediate",
     "type": "Weightlifting",
-    "image_url": "https://wger.de/media/exercise-images/13/Bench-press-1.png",
-    "video_url": "https://www.youtube.com/watch?v=gRVjAtPip0Y"
+    "image_url": "https://s3assets.skimble.com/assets/2289478/image_full.jpg",
+    "video_url": "https://youtu.be/gRVjAtPip0Y?si=1HBfJm9xpY37e5QA"
   },
   {
     "name": "Lunges",
@@ -50,8 +50,8 @@
     "description": "Step forward with one leg and lower your body until both knees are bent at 90 degrees.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/97/Lunge-1.png",
-    "video_url": "https://www.youtube.com/watch?v=QOVaHwm-Q6U"
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/reverse-lunge-6400d8afcd348.jpg?resize=980:*",
+    "video_url": "https://youtu.be/qYTxatbfJPc?si=hmewD_NlOZnL-2jQ"
   },
   {
     "name": "Plank",
@@ -59,8 +59,8 @@
     "description": "Hold your body off the ground in a straight line using your forearms and toes.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/98/Plank-1.png",
-    "video_url": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49qbbpzFTC8HSwdfW488wMZvPn6Ih4FB7kQ&s",
+    "video_url": "https://youtu.be/yeKv5oX_6GY?si=VoZMDHLRmDwPNMzU"
   },
   {
     "name": "Bicep Curls",
@@ -68,8 +68,8 @@
     "description": "Curl dumbbells up toward your shoulders while keeping elbows stationary.",
     "difficulty": "Beginner",
     "type": "Dumbbell",
-    "image_url": "https://wger.de/media/exercise-images/8/Biceps-curl-1.png",
-    "video_url": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+    "image_url": "https://cdn.shopify.com/s/files/1/2384/0833/files/inner-bicep-curl-benefits.jpg?v=1689192787",
+    "video_url": "https://youtu.be/XE_pHwbst04?si=5lSYedRW-iRn6PhV"
   },
   {
     "name": "Tricep Dips",
@@ -77,8 +77,8 @@
     "description": "Lower your body by bending your elbows behind you using parallel bars or a bench.",
     "difficulty": "Intermediate",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/100/Triceps-dip-1.png",
-    "video_url": "https://www.youtube.com/watch?v=0326dy_-CzM"
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/bench-dips-66041b963e79d.jpg?resize=980:*",
+    "video_url": "https://youtu.be/0326dy_-CzM?si=jeYQD3QrwCc0GwEl"
   },
   {
     "name": "Overhead Shoulder Press",
@@ -86,8 +86,8 @@
     "description": "Push weights overhead while standing or seated.",
     "difficulty": "Intermediate",
     "type": "Dumbbell",
-    "image_url": "https://wger.de/media/exercise-images/15/Shoulder-press-1.png",
-    "video_url": "https://www.youtube.com/watch?v=B-aVuyhvLHU"
+    "image_url": "https://www.dmoose.com/cdn/shop/articles/Blog_Image_fo.png?v=1726246034",
+    "video_url": "https://youtu.be/vlFGTI5JzjI?si=AOQ0bNFuRUW56-ni"
   },
   {
     "name": "Russian Twists",
@@ -95,8 +95,8 @@
     "description": "Sit with knees bent, twist your torso from side to side while keeping feet off the ground.",
     "difficulty": "Intermediate",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/141/Russian-twist-1.png",
-    "video_url": "https://www.youtube.com/watch?v=wkD8rjkodUI"
+    "image_url": "https://www.inspireusafoundation.org/wp-content/uploads/2021/12/kettlebell-russian-twist-1024x576.jpg",
+    "video_url": "https://youtu.be/wkD8rjkodUI?si=WV0WGBp-mpValgRW"
   },
   {
     "name": "Burpees",
@@ -104,8 +104,8 @@
     "description": "A full-body explosive movement involving a squat, jump, and push-up.",
     "difficulty": "Intermediate",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/219/Burpee-1.png",
-    "video_url": "https://www.youtube.com/watch?v=dZgVxmf6jkA"
+    "image_url": "https://i0.wp.com/www.muscleandfitness.com/wp-content/uploads/2017/04/burpee-1109.jpg?quality=86&strip=all",
+    "video_url": "https://youtu.be/qLBImHhCXSw?si=T6TI0WHjO1Nct0oj"
   },
   {
     "name": "Mountain Climbers",
@@ -113,8 +113,8 @@
     "description": "Drive your knees toward your chest from a plank position rapidly.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/219/Mountain-climber-1.png",
-    "video_url": "https://www.youtube.com/watch?v=nmwgirgXLYM"
+    "image_url": "https://i.guim.co.uk/img/media/e7ee4fd3eca4df1346f46d762dbb74b03c61ac6e/1020_1075_3464_2078/500.jpg?quality=85&auto=format&fit=max&s=820135a6cec5fa7397510a0b1add2cca",
+    "video_url": "https://youtu.be/cnyTQDSE884?si=gU6ib4dBJ_Q2V8_p"
   },
   {
     "name": "Leg Raises",
@@ -122,8 +122,8 @@
     "description": "Raise your legs while lying flat without lifting your upper back.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/142/Leg-raise-1.png",
-    "video_url": "https://www.youtube.com/watch?v=JB2oyawG9KI"
+    "image_url": "https://i.ytimg.com/vi/Wp4BlxcFTkE/maxresdefault.jpg",
+    "video_url": "https://youtu.be/dGKbTKLnym4?si=5fOJs3oETjFSK9cB"
   },
   {
     "name": "Jumping Jacks",
@@ -131,8 +131,8 @@
     "description": "A basic aerobic exercise performed by jumping to a position with the legs spread wide and the hands touching overhead.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/216/Jumping-jack-1.png",
-    "video_url": "https://www.youtube.com/watch?v=c4DAnQ6DtF8"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEirWQ6sQls_yDFSQKjDCgVcqz610WPan0JQ&s",
+    "video_url": "https://youtu.be/XR0xeuK5zBU?si=i59DWrxINTOOKqjR"
   },
   {
     "name": "Hip Thrusts",
@@ -140,8 +140,8 @@
     "description": "Lift your hips off the ground with weights or bodyweight to activate glutes.",
     "difficulty": "Intermediate",
     "type": "Bodyweight/Barbell",
-    "image_url": "https://wger.de/media/exercise-images/121/Hip-thrust-1.png",
-    "video_url": "https://www.youtube.com/watch?v=LM8XHLYJoYs"
+    "image_url": "https://cdn.shopify.com/s/files/1/2350/9323/files/Barbell_Hip_Thrust_480x480.jpg?v=1676877503",
+    "video_url": "https://youtu.be/KFnKL7qSzVs?si=_MogNXN52eDJRC3Y"
   },
   {
     "name": "Glute Bridges",
@@ -149,8 +149,8 @@
     "description": "Lie on your back and lift hips by contracting your glutes.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/118/Glute-bridge-1.png",
-    "video_url": "https://www.youtube.com/watch?v=m2Zx-57cSok"
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/glutebridge-1603107150.jpg?resize=980:*",
+    "video_url": "https://youtu.be/XLXGydU5DdU?si=U2hQl8r8pjiw4aKZ"
   },
   {
     "name": "Side Planks",
@@ -158,8 +158,8 @@
     "description": "Hold your body in a straight line on one side supported by your forearm.",
     "difficulty": "Intermediate",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/208/Side-plank-1.png",
-    "video_url": "https://www.youtube.com/watch?v=K2VljzCC16g"
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/side-plank-1673010789.jpg?crop=0.564xw:1.00xh;0.231xw,0&resize=1200:*",
+    "video_url": "https://youtu.be/NXr4Fw8q60o?si=qLM6UhdHlv0T7yHO"
   },
   {
     "name": "Jump Squats",
@@ -167,8 +167,8 @@
     "description": "Perform a squat and explosively jump upward.",
     "difficulty": "Intermediate",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/117/Jump-squat-1.png",
-    "video_url": "https://www.youtube.com/watch?v=U4s4mEQ5VqU"
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/squat-jump-1585155002.jpg",
+    "video_url": "https://youtu.be/BRfxI2Es2lE?si=WJm-dHbKr6XlYcDU"
   },
   {
     "name": "High Knees",
@@ -176,8 +176,8 @@
     "description": "Run in place while lifting knees high toward the chest.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/220/High-knee-1.png",
-    "video_url": "https://www.youtube.com/watch?v=OAJ_J3EZkdY"
+    "image_url": "https://liftmanual.com/wp-content/uploads/2023/04/high-knee-run.jpg",
+    "video_url": "https://youtu.be/YK4wQdKknfE?si=YBka6uQsPRudCUX-"
   },
   {
     "name": "Bicycle Crunches",
@@ -185,8 +185,8 @@
     "description": "Lie on your back and pedal your legs in the air while crunching.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/140/Bicycle-crunch-1.png",
-    "video_url": "https://www.youtube.com/watch?v=9FGilxCbdz8"
+    "image_url": "https://steelsupplements.com/cdn/shop/articles/Bicycle_crunch_-_cover_-_shutterstock_1420680866_1000x.jpg?v=1670162703",
+    "video_url": "https://youtu.be/cbKIDZ_XyjY?si=6WRX9MYsCf0wMqF0"
   },
   {
     "name": "Arnold Press",
@@ -194,8 +194,8 @@
     "description": "A shoulder press that starts with palms facing you and rotates outward as you lift.",
     "difficulty": "Intermediate",
     "type": "Dumbbell",
-    "image_url": "https://wger.de/media/exercise-images/89/Arnold-press-1.png",
-    "video_url": "https://www.youtube.com/watch?v=vj2w851ZHRM"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_99jLegPsl1aTyFg9PC3_u9G4C6_0P0dsg&s",
+    "video_url": "https://youtu.be/6Z15_WdXmVw?si=90A1uEzL2Hmgxuhy"
   },
   {
     "name": "Incline Dumbbell Press",
@@ -203,8 +203,8 @@
     "description": "Lie on an incline bench and press dumbbells upward.",
     "difficulty": "Intermediate",
     "type": "Dumbbell",
-    "image_url": "https://wger.de/media/exercise-images/10/Incline-dumbbell-press-1.png",
-    "video_url": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
+    "image_url": "https://www.themanual.com/wp-content/uploads/sites/9/2024/06/MicrosoftTeams-image18-ezgif.com-resize.jpg?resize=1200%2C720&p=1",
+    "video_url": "https://youtu.be/IP4oeKh1Sd4?si=QAzcIvrSOSF-MMKn"
   },
   {
     "name": "Cable Lat Pulldown",
@@ -212,8 +212,8 @@
     "description": "Pull a bar down towards your chest using a cable machine.",
     "difficulty": "Beginner",
     "type": "Machine",
-    "image_url": "https://wger.de/media/exercise-images/4/Lat-pulldown-1.png",
-    "video_url": "https://www.youtube.com/watch?v=CAwf7n6Luuc"
+    "image_url": "https://liftmanual.com/wp-content/uploads/2023/04/cable-wide-grip-lat-pulldown.jpg",
+    "video_url": "https://youtu.be/SALxEARiMkw?si=x0c_bTgYXVlqlEt-"
   },
   {
     "name": "Face Pulls",
@@ -221,8 +221,8 @@
     "description": "Pull a rope attachment towards your face while keeping elbows high.",
     "difficulty": "Intermediate",
     "type": "Cable",
-    "image_url": "https://wger.de/media/exercise-images/6/Face-pull-1.png",
-    "video_url": "https://www.youtube.com/watch?v=rep-qVOkqgk"
+    "image_url": "https://i0.wp.com/www.muscleandfitness.com/wp-content/uploads/2018/12/800-ropefacepull.jpg?w=800&quality=86&strip=all",
+    "video_url": "https://youtu.be/V8dZ3pyiCBo?si=MuEjofbXd9o0sAaF"
   },
   {
     "name": "Barbell Row",
@@ -230,8 +230,8 @@
     "description": "Pull a barbell to your waist while bent over at the hips.",
     "difficulty": "Intermediate",
     "type": "Barbell",
-    "image_url": "https://wger.de/media/exercise-images/16/Barbell-row-1.png",
-    "video_url": "https://www.youtube.com/watch?v=vT2GjY_Umpw"
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/barbellrow-jpg-1563984582.jpg",
+    "video_url": "https://youtu.be/FWJR5Ve8bnQ?si=QjuHyXmOA6jBPa9Z"
   },
   {
     "name": "Chest Fly",
@@ -239,8 +239,8 @@
     "description": "Use dumbbells or a machine to open and close your arms in a wide arc.",
     "difficulty": "Beginner",
     "type": "Dumbbell/Machine",
-    "image_url": "https://wger.de/media/exercise-images/2/Chest-fly-1.png",
-    "video_url": "https://www.youtube.com/watch?v=eozdVDA78K0"
+    "image_url": "https://gymgeek.com/wp-content/uploads/2024/02/flat-bench-dumbbell-chest-fly.png",
+    "video_url": "https://youtu.be/Nhvz9EzdJ4U?si=aezi1L4cz9WEax_N"
   },
   {
     "name": "Calf Raises",
@@ -248,8 +248,8 @@
     "description": "Stand on your toes repeatedly to build calf strength.",
     "difficulty": "Beginner",
     "type": "Bodyweight/Weight",
-    "image_url": "https://wger.de/media/exercise-images/44/Calf-raise-1.png",
-    "video_url": "https://www.youtube.com/watch?v=-M4-G8p8fmc"
+    "image_url": "https://gymgeek.com/wp-content/uploads/2023/10/calf-raises.png",
+    "video_url": "https://youtu.be/eMTy3qylqnE?si=5aMQQ9ieedJWqbyH"
   },
   {
     "name": "Hanging Leg Raises",
@@ -257,8 +257,8 @@
     "description": "Hang from a bar and raise your legs to hip level or higher.",
     "difficulty": "Advanced",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/142/Hanging-leg-raise-1.png",
-    "video_url": "https://www.youtube.com/watch?v=JB2oyawG9KI"
+    "image_url": "https://steelsupplements.com/cdn/shop/articles/shutterstock_775161919_1000x.jpg?v=1642058115",
+    "video_url": "https://youtu.be/_jLskVdzS4o?si=TJivgDH3kx5g8-r7"
   },
   {
     "name": "Farmer’s Walk",
@@ -266,8 +266,8 @@
     "description": "Walk while carrying heavy dumbbells or kettlebells.",
     "difficulty": "Intermediate",
     "type": "Weightlifting",
-    "image_url": "https://wger.de/media/exercise-images/87/Farmers-walk-1.png",
-    "video_url": "https://www.youtube.com/watch?v=6d8X7zCP_Ro"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7_epr0Iv_k2KBdd2-7ZyyAQmNZYzIH9u83Q&s",
+    "video_url": "https://youtu.be/NH7Xv-7NQNQ?si=P77Rgj5sn5bwyoDM"
   },
   {
     "name": "Clean and Press",
@@ -275,8 +275,8 @@
     "description": "Lift the weight from the floor to shoulders, then press overhead.",
     "difficulty": "Advanced",
     "type": "Barbell",
-    "image_url": "https://wger.de/media/exercise-images/59/Clean-and-press-1.png",
-    "video_url": "https://www.youtube.com/watch?v=3nRty9Ql3mQ"
+    "image_url": "https://liftmanual.com/wp-content/uploads/2023/04/barbell-clean-and-press.jpg",
+    "video_url": "https://youtu.be/9lSjbxkjCqU?si=rUmp1Qrxe-EGIASG"
   },
   {
     "name": "Kettlebell Swing",
@@ -284,8 +284,8 @@
     "description": "Swing a kettlebell between your legs up to shoulder height using hip thrust.",
     "difficulty": "Intermediate",
     "type": "Kettlebell",
-    "image_url": "https://wger.de/media/exercise-images/104/Kettlebell-swing-1.png",
-    "video_url": "https://www.youtube.com/watch?v=YSxgYjNAx6s"
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/kettlebell-swing-russian-65a545944fe15.jpg?resize=980:*",
+    "video_url": "https://youtu.be/DqkYuWR4zRI?si=s3BtrvRPsRO4ONXl"
   },
   {
     "name": "Wall Sit",
@@ -293,8 +293,8 @@
     "description": "Hold a squat position with your back against the wall.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/119/Wall-sit-1.png",
-    "video_url": "https://www.youtube.com/watch?v=y-wV4Venusw"
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/wall-squat-6634a69fa8eb5.jpg?crop=0.6669921875xw:1xh;center,top&resize=640:*",
+    "video_url": "https://youtu.be/cWTZ8Am1Ee0?si=rCBck_q9WDe5uPAl"
   },
   {
     "name": "Donkey Kicks",
@@ -302,8 +302,8 @@
     "description": "Kick one leg backward while on all fours to activate glutes.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/126/Donkey-kick-1.png",
-    "video_url": "https://www.youtube.com/watch?v=JkX2IP8xbIQ"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEt3QIb_TwbaxpyPM-ct8LBc70quntkbLqpQ&s",
+    "video_url": "https://youtu.be/SJ1Xuz9D-ZQ?si=T_f_CjDUA2Qkbpga"
   },
   {
     "name": "Fire Hydrants",
@@ -311,8 +311,8 @@
     "description": "Raise one leg to the side while on all fours, mimicking a dog at a hydrant.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/127/Fire-hydrant-1.png",
-    "video_url": "https://www.youtube.com/watch?v=btD0zULgWNs"
+    "image_url": "https://images.ctfassets.net/hjcv6wdwxsdz/4MUYoXBGggjZmo3sgGD6Fl/e268c789de89306b7eaa2b9c5cd978ad/man-on-yoga-mat-doing-fire-hydrant-exercise.png?w=1200",
+    "video_url": "https://youtu.be/IRkRgk2Gc1E?si=yMzfjGatj19pSPWL"
   },
   {
     "name": "Reverse Crunches",
@@ -320,8 +320,8 @@
     "description": "Lift hips off the ground by curling your knees toward your chest.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/139/Reverse-crunch-1.png",
-    "video_url": "https://www.youtube.com/watch?v=hyv14e2QDq0"
+    "image_url": "https://liftmanual.com/wp-content/uploads/2023/04/reverse-crunch.jpg",
+    "video_url": "https://youtu.be/c0gFOtFL3hA?si=GqEKYGz_YBJ2rnb7"
   },
   {
     "name": "Skaters",
@@ -329,8 +329,8 @@
     "description": "Hop laterally from one foot to the other, mimicking a skating motion.",
     "difficulty": "Intermediate",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/218/Skaters-1.png",
-    "video_url": "https://www.youtube.com/watch?v=QXCpEyjll8Y"
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/skater-1657646762.jpg?crop=0.694xw:0.822xh;0.145xw,0.178xh&resize=980:*",
+    "video_url": "https://youtu.be/9_jLW6VkU8A?si=SCe822_GPGJzsnfe"
   },
   {
     "name": "Step-Ups",
@@ -338,8 +338,8 @@
     "description": "Step onto a platform one leg at a time and return to the ground.",
     "difficulty": "Beginner",
     "type": "Bodyweight/Dumbbell",
-    "image_url": "https://wger.de/media/exercise-images/92/Step-up-1.png",
-    "video_url": "https://www.youtube.com/watch?v=dQqApCGd5Ss"
+    "image_url": "https://marvel-b1-cdn.bc0a.com/f00000000229348/www.silversneakers.com/wp-content/uploads/2019/09/SSBlog_4StepUpVariations.jpg",
+    "video_url": "https://youtu.be/vs87hPGdnCc?si=W5EbCBI25X9QJc1f"
   },
   {
     "name": "Box Jumps",
@@ -347,8 +347,8 @@
     "description": "Jump onto a sturdy box or platform using explosive power.",
     "difficulty": "Intermediate",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/200/Box-jump-1.png",
-    "video_url": "https://www.youtube.com/watch?v=52rU_mZ2mjA"
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/box-jump-1585302208.jpeg",
+    "video_url": "https://youtu.be/kNIInK_Le8I?si=Gi_KNPNiFoD9Vdft"
   },
   {
     "name": "Superman",
@@ -356,8 +356,8 @@
     "description": "Lift your arms and legs off the ground while lying face-down.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/121/Superman-1.png",
-    "video_url": "https://www.youtube.com/watch?v=z6PJMT2y8GQ"
+    "image_url": "https://i0.wp.com/www.muscleandfitness.com/wp-content/uploads/2014/02/6143_B.jpg?quality=86&strip=all",
+    "video_url": "https://youtu.be/2WBUezsYkk4?si=USh_B6wDZoFWJwg0"
   },
   {
     "name": "T-Bar Row",
@@ -365,8 +365,8 @@
     "description": "Row a barbell using a V-handle and fixed pivot point.",
     "difficulty": "Intermediate",
     "type": "Barbell",
-    "image_url": "https://wger.de/media/exercise-images/68/T-bar-row-1.png",
-    "video_url": "https://www.youtube.com/watch?v=0hY4tSxKwrA"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-lM5L5TPfOPMN7OUHGJolJbarD5mESdlHEA&s",
+    "video_url": "https://youtu.be/hYo72r8Ivso?si=KdCpGmZl8VSNQVLQ"
   },
   {
     "name": "Toe Touches",
@@ -374,7 +374,7 @@
     "description": "Lie on your back and reach up to touch your toes repeatedly.",
     "difficulty": "Beginner",
     "type": "Bodyweight",
-    "image_url": "https://wger.de/media/exercise-images/143/Toe-touch-1.png",
-    "video_url": "https://www.youtube.com/watch?v=JKJje61O_UQ"
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/fit-brunette-female-exercising-during-workout-at-royalty-free-image-1645631357.jpg",
+    "video_url": "https://youtu.be/6XM-Jzq-pOA?si=hsl5uFVKCISkwU9d"
   }
 ]
